@@ -1,0 +1,47 @@
+
+.photo {
+  width: 125px;
+  height: 168px;
+  /* align-items: left; */
+  padding-right: 20px;
+
+}
+header{
+
+  display: flex;
+  justify-content: center;
+  background-color: #F55A5A;
+}
+.card{
+  display: flex;
+  justify-content: center;
+}
+.card-container{
+  /* border: 1px solid black; */
+  display: flex;
+ justify-content: center;
+ align-items: center;
+  /* flex-direction: column; */
+  width: 471px;
+  /* height: 168px; */
+  margin: 20px;
+}
+h2{
+  font-size: 24px;
+  margin: 0;
+}
+.description {
+  font-size: 10px;
+}
+.location {
+  font-size: 10px;
+  padding: 10px;
+  font-weight: 600;
+}
+.dates {
+  font-size: 10px;
+  font-weight: 800;
+}
+.google-map {
+  font-size: 10px;
+}
